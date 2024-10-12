@@ -1,8 +1,19 @@
-# React + Vite
+# DevTinder
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Crearted a Vite + React application
+- Remove uncessary code and create a Hello world app
+- Install taiwind css
+- Install Daisy UI
+- Add Navbar component to App.jsx
+- Create a NavBar.jsx seperate component file
+- Install reaact router DOM
+- Create BrowserRouter > Routes > Route=/ Body >RouteChildren
+- Create an Outlet in your Body Component
+- Create a footer
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Body
+NavBar
+Route=/ => Feed
+Route=/login => Login
+Route=/connections => Connections
+Route=/profile => Profile
